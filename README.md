@@ -1,0 +1,1 @@
+This repository contains course materials for EECS 498/598, Encrypted Systems, as taught in winter 2022 by Paul Grubbs.
